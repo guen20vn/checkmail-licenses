@@ -1,8 +1,8 @@
 {
   "mode": "allowlist",
   "allowed": [
-    "FF549BB9A2D69893"
-    "CE70BAED4B844B85"
+    "FF549BB9A2D69893",
+    "CE70BAED4B844B85",
     "0D8B6C63B67EEEA2"
   ]
 }
